@@ -9,8 +9,6 @@ Cualquier función que recomienden y sea útil, pueden decirmela y la iré agreg
 
 ——————————————————————————————————————————————————————————————————
 
-Hey guys!
-
 I made a little app to address my need to be able to quickly and accurately blur a wallpaper, something similar to iOS (to achieve the same look, I recommend 100% blur, but you can go up to 200% if you need). I'm sharing it because it might be useful to someone else.
 
 The app is 100% ad-free and made with love.
