@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_title">Blur Tool</string>
+    <string name="select_image">Select Image</string>
+    <string name="save_image">Save Image</string>
+    <string name="desc_selected_image">Selected image preview</string>
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="select_image_first">Select an image first</string>
+    <string name="image_saved">Image saved in Gallery</string>
+    <string name="error_saving">Error saving image</string>
+    <string name="error_applying_blur">Error applying blur</string>
+</resources>

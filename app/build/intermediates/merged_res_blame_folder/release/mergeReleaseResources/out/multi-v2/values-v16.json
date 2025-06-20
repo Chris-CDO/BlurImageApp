@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cdo.BlurTool.app-mergeReleaseResources-35:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\W10\\.gradle\\caches\\8.12\\transforms\\52572b8db1fdf569df0fa3f05e22f5db\\transformed\\appcompat-1.7.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

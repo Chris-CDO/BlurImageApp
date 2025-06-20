@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#FAFAFA</color>
+    <color name="colorOnPrimaryDark">#000000</color>
+    <color name="colorSecondaryDark">#212121</color>
+    <color name="colorOnSecondaryDark">#000000</color>
+    <color name="white">#FFFFFF</color> <!-- puede usarse para textos, etc -->
+    <color name="black">#000000</color>
+</resources>

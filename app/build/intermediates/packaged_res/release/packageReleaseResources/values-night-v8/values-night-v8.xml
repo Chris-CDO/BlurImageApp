@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorOnPrimaryDark">#000000</color>
+    <color name="colorOnSecondaryDark">#000000</color>
+    <color name="colorPrimaryDark">#FAFAFA</color>
+    <color name="colorSecondaryDark">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <style name="Theme.ChrisTools" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimaryDark</item>
+        <item name="colorSecondary">@color/colorSecondaryDark</item>
+        <item name="colorOnSecondary">@color/colorOnSecondaryDark</item>
+        <item name="android:colorBackground">@color/black</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>

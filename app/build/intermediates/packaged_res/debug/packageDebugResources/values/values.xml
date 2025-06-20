@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnPrimaryDark">#000000</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnSecondaryDark">#000000</color>
+    <color name="colorPrimary">#FAFAFA</color>
+    <color name="colorPrimaryDark">#FAFAFA</color>
+    <color name="colorSecondary">#212121</color>
+    <color name="colorSecondaryDark">#212121</color>
+    <color name="gray_light">#EEEEEE</color>
+    <color name="ic_launcher_background">#E5E5E5</color>
+    <color name="purple_500">#FAFAFA</color>
+    <color name="purple_700">#FAFAFA</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_title">Blur Tool</string>
+    <string name="desc_selected_image">Selected image preview</string>
+    <string name="error_applying_blur">Error applying blur</string>
+    <string name="error_saving">Error saving image</string>
+    <string name="image_saved">Image saved in Gallery</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="save_image">Save Image</string>
+    <string name="select_image">Select Image</string>
+    <string name="select_image_first">Select an image first</string>
+    <style name="Theme.ChrisTools" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+</resources>
