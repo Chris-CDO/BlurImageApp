@@ -1,0 +1,29 @@
+# Ignore SDK configuration
+local.properties
+
+# Ignore Gradle build folders
+.gradle/
+build/
+*/build/
+
+# Ignore IDE config
+.idea/
+*.iml
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore sign key files
+*.jks
+
+# Ignore VSCode config
+.vscode/
+
+# Ignore generated files
+.cxx/
+.externalNativeBuild/
+captures/
